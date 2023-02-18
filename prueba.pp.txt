@@ -1,0 +1,10 @@
+
+program Hello;
+var
+jose1,jose2,jose3:integer;
+jose4,jose5,jose6:char;
+jose7,jose8,jose9:boolean;
+begin
+  writeln ('Hello World')
+end.
+
